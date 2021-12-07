@@ -1,5 +1,5 @@
 
-# SEAL-GiFt-Game-Engine
+# GiFt-Ghostler-Game-Engine
 A game engine on OPENGL 
 
       ██████████████
